@@ -1,2 +1,2 @@
-# functions-js-
+# functions-js
 Javascript functions for tests and learning
